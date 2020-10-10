@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+My name is David Shen, and I'm a computing student of class '2024 at Queen's University
 
 <!--
 **ds-David-Shen/ds-David-Shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
