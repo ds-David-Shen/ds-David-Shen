@@ -1,3 +1,3 @@
 ### Hi there 👋 
 
-My name is David Shen, and I'm a computing student of class '2024 at Queen's University
+My name is David Shen, and I am currently studying computong with a specialization in artificial intelligence at Queen's University
